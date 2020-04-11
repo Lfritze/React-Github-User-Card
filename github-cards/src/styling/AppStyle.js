@@ -6,12 +6,12 @@ export const GitCardContainer = styled.div`
   max-width: 1000px;
   display: flex;
   flex-direction: column;
-  border: 1px solid black;
+  border: 4px solid black;
   padding: 0.5%;
   margin: 3% auto;
-  background: #add8e6;
+  background: #008080;
   border-radius: 50px;
-  border: 4px solid green;
+  
 `;
 
 export const GitUser = styled.div`
@@ -20,7 +20,7 @@ export const GitUser = styled.div`
 `;
 
 export const GitAvatar = styled.a`
-  width: 40%;
+  width: 30%;
   padding: 1%;
   margin-right: 5%;
 
