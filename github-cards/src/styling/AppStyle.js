@@ -75,11 +75,21 @@ export const SearchForm = styled.form`
 
   input {
     padding: 2px 0;
+    width: 250px;
+    height: 30px;
+    border: 1px solid #242424;
+    outline: none;
+    border-radius: 10px;
+    padding-Left: 5%;
   }
   button {
     border: 1px solid black;
-
-    background: green;
+    
+outline: none;
+    background: #242424;
+    width: 150px;
+    height: 30px;
+    border-radius: 25px;
     color: white;
     padding: 2px 10px;
     margin: 8px;
