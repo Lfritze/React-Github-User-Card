@@ -42,7 +42,7 @@ class GitCard extends React.Component {
             <p>Bio: {this.props.bio}</p>
           </GitInfo>
         </GitUser>
-        <ContributionChart className="calendar">Loading ...</ContributionChart>
+        <ContributionChart className="calendar">Loading ... Quota Exceeded</ContributionChart>
         <GitFollowers>
           <h1>Followers</h1>
           {this.props.followerList.map((follower, idx) => (
