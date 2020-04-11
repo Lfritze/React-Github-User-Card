@@ -11,6 +11,7 @@ export const GitCardContainer = styled.div`
   margin: 3% auto;
   background: #008080;
   border-radius: 50px;
+  color: #fff;
   
 `;
 
