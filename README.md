@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img width="100%" src="github-cards/src/screenshot.jpg" alt="cover" />
+  <img width="75%" src="github-cards/src/screenshot.jpg" alt="cover" />
 </div>
 
 # React Github USer Cards
